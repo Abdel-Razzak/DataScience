@@ -1,7 +1,6 @@
 # Learning Journey: Data Science
 ## Introduction to DataScience (Module 1)
 ### This module provides insights on Data Science Process and Data Products
-![learning journey](https://github.com/Abdel-Razzak/DataScience/blob/master/images/M1.jpeg)
 ![data exploration](https://github.com/Abdel-Razzak/DataScience/blob/master/images/M2.jpeg)
 
 ### Overview of Data Science 
