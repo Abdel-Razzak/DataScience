@@ -1,4 +1,4 @@
-#Learning Journey: Data Science
+# Learning Journey: Data Science
 ## Introduction to DataScience (Module 1)
 ### This module provides insights on Data Science Process and Data Products
 
@@ -18,4 +18,4 @@ Different business cases are presented during session implementation as case stu
   * Data science life cycel
   * Data types: structured, ustructured and everything in between
 
-### session material
+### Session material
