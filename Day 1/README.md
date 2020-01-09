@@ -5,6 +5,7 @@ Hal Varian, Chief Economist at Google, said that:
 
 ## Session outline and activities
 * [Overview: Data Science](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%201/ds.ipynb)
+* [Practice: Data Science Process -Asking the right questions-](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%201/Lecture_0_Notebook.ipynb)
 
 ## Readings and Material
 * [Slides 1](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%201/PDF%20Notes/Lecture0_Introduction.pdf)
