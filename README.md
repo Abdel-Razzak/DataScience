@@ -17,8 +17,9 @@ Different business cases are presented during session implementation as case stu
   * Data science life cycel
   * Data types: structured, ustructured and everything in between
 
-### [Module Outline]()
+### [Module Outline](https://drive.google.com/open?id=1qrYLWjSBuEoo2tb9sYsIpYcgPUZ0PoqE)
 ### Module Schedule
 * [Day 1: Overview on Data Science](https://github.com/Abdel-Razzak/DataScience/tree/master/Day%201)
 > Introduction: What is data science? Process. Why is it important? Who are we? Module overview.
-* [Day 2: Git and installing python. Basic Python.](https://github.com/Abdel-Razzak/DataScience/tree/master/Day%202)
+* [Day 2:what is Data? Intro to Exploratory Data Analysis](https://github.com/Abdel-Razzak/DataScience/tree/master/Day%203)
+* [Day 3: Git and installing python. Basic Python.](https://github.com/Abdel-Razzak/DataScience/tree/master/Day%202)
