@@ -1,7 +1,7 @@
 
 # Intro to Exploratory Data Analysis
 * [What is DATA?](https://drive.google.com/open?id=1Qa3e5bxemT_RlKvnCTqCBUMnFIvGPIWV)
-* [Glimpse to the future of what you will be doing](Day 3/Lecture1_Notebook.ipynb)
+* [Glimpse to the future of what you will be doing](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%203/Lecture1_Notebook.ipynb)
 
 ## Getting started with Python
 Data science has been described as intersection of programming, statistics and topical expertise. Python is an excellent programming tool for data analysis because it's friendly, pragmatic, mature and because it's complemented by excellent third party packages that were designed to deal with large amounts of data. through this session I will show you how to set up your analysis environment and provides a refresher on the basics of working with data containers in Python. Then he jumps into the big stuff: the power of arrays, indexing, and DataFrames in NumPy and Pandas so We will start this session by reviewing Python data containers which are useful on their own and which set the model for the more powerful data objects of NumPy and Pandas.
@@ -19,3 +19,5 @@ Data science has been described as intersection of programming, statistics and t
      * [Using Arrays and scalars](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Learning%20Numpy/2-Using%20arrays%20and%20scalars.ipynb)
      * [Indexing Arrays](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Learning%20Numpy/3-Indexing%20Arrays.ipynb)
   
+#### Practice: Intro into Python
+[Practice, Practice and Practice is the key to success](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%202/IntroPython.ipynb)
