@@ -1,6 +1,6 @@
 
 # Project Guidelines
-[Project Guidelines](https://drive.google.com/open?id=1fWTXl1A6Iqhk0v9hrd4RNx3CU9UtDVXT)
+[Project Guidelines and Milestones](https://drive.google.com/open?id=1fWTXl1A6Iqhk0v9hrd4RNx3CU9UtDVXT)
 # Final Report Guidelines
 The project deliverable is a data product (it could be a website or a mobile app)that contains a final report, 
 as well as a well-documented Jupyter notebook. A template for the final report is below. 
