@@ -17,4 +17,4 @@ Be sure to submit the following:
 5. Results, Conclusions, and Future Work: Show and interpret your results. Summarize your results, the strengths and short-comings of your results, and speculate on how you might address these short-comings if given more time.
 
 # Business Model and Idea Stack framework
-[idea stack framework](https://drive.google.com/open?id=1fd-qeDdGaDyPc1c5sbU81Po-9Y6xkaFt)
+[Idea stack framework](https://drive.google.com/open?id=1fd-qeDdGaDyPc1c5sbU81Po-9Y6xkaFt)
