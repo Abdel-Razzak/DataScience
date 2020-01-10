@@ -20,4 +20,4 @@ Data science has been described as intersection of programming, statistics and t
      * [Indexing Arrays](https://github.com/Abdel-Razzak/DSF/blob/master/S2/iPython%20notes/Learning%20Numpy/3-Indexing%20Arrays.ipynb)
   
 #### Practice: Intro into Python
-[Practice, Practice and Practice is the key to success](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%202/IntroPython.ipynb)
+[Practice, Practice and Practice is the key to success](https://github.com/Abdel-Razzak/DataScience/blob/master/Day%202/Lab0_IntroPython.ipynb)
