@@ -1,4 +1,3 @@
-
 # Project Guidelines
 [Project Guidelines and Milestones](https://drive.google.com/open?id=1fWTXl1A6Iqhk0v9hrd4RNx3CU9UtDVXT)
 # Final Report Guidelines
@@ -17,3 +16,5 @@ Be sure to submit the following:
 4. ModelingApproachandProjectTrajectory:Include1)abaselinemodelforcomparisonand 2) a description of your implementations beyond the baseline model. Briefly summarize any changes in your project goals or implementation plans you have made along the way. These changes are a natural part of any project, even those that seem the most straightforward at the beginning. The story you tell about how you arrived at your results can powerfully illustrate your process.
 5. Results, Conclusions, and Future Work: Show and interpret your results. Summarize your results, the strengths and short-comings of your results, and speculate on how you might address these short-comings if given more time.
 
+# Business Model and Idea Stack framework
+[idea stack framework](https://drive.google.com/open?id=1fd-qeDdGaDyPc1c5sbU81Po-9Y6xkaFt)
