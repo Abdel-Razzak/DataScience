@@ -26,3 +26,6 @@ Different business cases are presented during session implementation as case stu
 > what is Data? Intro to Exploratory Data Analysis
 * [Data Product Design and Business Plan](https://github.com/Abdel-Razzak/DataScience/tree/master/Day%203)
 > Project Scope, problem statment, System Requirments, idea stack framework and business Plan
+
+## Project Deliverables 
+* [SRS](https://drive.google.com/open?id=12y3tcYWjlKBtFdjT0gRV3wCOFDpu6bU_)
